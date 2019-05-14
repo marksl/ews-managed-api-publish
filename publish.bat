@@ -2,7 +2,7 @@ rd /s /q ews-managed-api
  
 :: clone repo
 git clone https://github.com/OfficeDev/ews-managed-api.git ews-managed-api
-git checkout 812974b42be9fc046efc6434f975f71fc1b3d43c
+git checkout 25a393dbc68b420d25999bdf0a03c23d86412f57
  
 copy Microsoft.Exchange.WebServices.Data.nuspec ews-managed-api
  

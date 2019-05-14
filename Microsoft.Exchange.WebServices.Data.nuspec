@@ -2,7 +2,7 @@
 <package >
   <metadata xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
     <id>Exchange.WebServices.Managed.Api</id>
-    <version>2.2.1.1</version>
+    <version>2.2.1.2</version>
     <title>Exchange.WebServices.Managed.Api</title>
     <authors>Microsoft</authors>
     <owners>Microsoft</owners>
@@ -16,7 +16,7 @@
       You can use this version of the EWS Managed API to evaluate the library for your application needs, to compare it to directly using XML or the auto generated proxy library, and to create production-ready applications.
     </description>
     <summary>Exchange Web Services (EWS) Managed API</summary>
-    <copyright>Copyright 2018</copyright>
+    <copyright>Copyright 2019</copyright>
     <tags>Microsoft Exchange Web Services EWS Managed API Email Client Library C#</tags>
   </metadata>
 </package>
